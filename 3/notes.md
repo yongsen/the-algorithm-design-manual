@@ -3,9 +3,9 @@
 1. Contiguous vs. Linded Data Structures
  - Arrays
  - Pointers and Linded Structures
-   * List:
-    * 'insert'
-    * 'delete'
+   - List:
+     * 'insert'
+     * 'delete'
 2. Stacks and Queues
  - Stacks: LIFO
    * 'push(x,s)'
